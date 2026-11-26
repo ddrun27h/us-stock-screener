@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-hidden="true">
+  <style>
+    .plate{fill:var(--color-brand-weak,#16284A)}
+    .hui{fill:var(--color-text-1,#E8ECF2)}
+    .ray{fill:var(--color-brand,#5B9BFF)}
+    @media (prefers-color-scheme:light){
+      .plate{fill:var(--color-brand-weak,#E3ECFC)}
+      .hui{fill:var(--color-text-1,#0F141B)}
+      .ray{fill:var(--color-brand,#1C5BD0)}
+    }
+  </style>
+  <rect class="plate" width="64" height="64" rx="14" fill="#16284A"/>
+  <path class="hui" fill="#E8ECF2" d="M18.4 53C19.2 52.1 20.6 51.3 27.6 47.8V50.7H40.1V58.1H46.2V50.7H58.5V45H46.2V42.4H56.4V24.9H46.2V22.3H56.6V17H46.2V13.1H40.1V17H29.6V22.3H40.1V24.9H30.3V42.4H40.1V45H27.6V45.5L27.2 42.3L23.6 44V30.8H28.2V24.6H19.7V5.9H14.1V24.6H6.1V30.8H9.9C9.8 40.8 9.2 48.5 5.5 53.3C7 54.4 8.8 56.5 9.7 58.1C14.4 52.1 15.4 42.7 15.6 30.8H18V41.7C18 44 17 45.4 16 46C16.9 47.7 18 51.3 18.4 53ZM35.5 35.6H40.1V38.2H35.5ZM46.2 35.6H50.8V38.2H46.2ZM35.5 29H40.1V31.6H35.5ZM46.2 29H50.8V31.6H46.2ZM23.1 8.9C22.5 12.9 21.2 18.6 20 22.2L24.2 23.4C25.6 20.1 27.2 14.8 28.5 10.3V16H34.1V11.7H52.3V16H58V6.5H28.5V10.1Z"/>
+  <path class="ray" fill="#5B9BFF" d="M6.3 10.2C7.3 14.4 8.4 19.9 8.7 23.4L13.4 22.2C13 18.6 12 13.3 10.9 9.2Z"/>
+</svg>
